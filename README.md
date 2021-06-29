@@ -1,2 +1,4 @@
-# cat-and-dog-inceptionV3-transfering
-Transfer Learning from InceptionV3 of Google to recognize cats and dogs. Using Google Colab to upload the images and test the model.
+# Cat and Dog Classofocation from InceptionV3 model
+Using pretrained model InceptionV3 from Google and transfer learning to recognize cats and dogs. 
+Accuracy = approx. 97%
+Using Google Colab to upload the images and test the model.
